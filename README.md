@@ -25,7 +25,7 @@ kod .
 
 ## Lisans
 
-MİT
+MIT
 
 ## Patika
 
