@@ -14,6 +14,7 @@ git klon https://github.com/YaseminCeyln/kodluyoruzilkrepo.git
 Projeyi klonladıktan sonra Visual Studio Code girişini açın.
 
 Linux için:
+
 linux
 cd koluyoruzilkrepo
 kod .
@@ -25,3 +26,7 @@ kod .
 ## Lisans
 
 MİT
+
+## Patika
+
+https://app.patika.dev/yaseminceyln
